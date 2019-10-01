@@ -1,0 +1,7 @@
+.station_sel {
+    width: 300px;
+    height: 60px;
+    border: 1px solid red;
+    margin: 20px auto;
+    padding: 10px;
+}
