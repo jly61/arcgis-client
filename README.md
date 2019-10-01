@@ -1,5 +1,5 @@
 #### 安装
-npm i
+npm install
 ```
 
 #### 开发
